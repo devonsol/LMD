@@ -1,0 +1,15 @@
+{
+  "name": "Lucky Muscular Dolphin",
+  "symbol": "LMD",
+  "description": "The very first muscular dolphin in the sea.",
+  "image": "https://github.com/myst1ccz/sol/blob/main/lmd.png",
+  "attributes": [],
+  "properties": {
+    "files": [
+      {
+        "uri": "https://github.com/myst1ccz/sol/blob/main/lmd.png",
+        "type": "image/png"
+      }
+    ]
+  }
+}
